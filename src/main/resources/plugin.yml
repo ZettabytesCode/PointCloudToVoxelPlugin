@@ -1,0 +1,15 @@
+name: ScanPlugin
+version: ${project.version}
+main: me.zettabytes.scanplugin.ScanPlugin
+api-version: 1.16
+commands:
+  scan:
+    description: scans lol
+    usage: /<command>
+  parse:
+    description: scans 2 lol
+    usage: /<command>
+  scan3:
+    description: paiuse lol
+    usage: /<command>
+
